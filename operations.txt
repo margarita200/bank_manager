@@ -1,0 +1,9 @@
+720, 07-01-2019, 11:00, *1238, +88 EUR, left: 450 EUR;
+480, 01-01-2019, 21:30, Withdrawal: card *6678: 10 EUR, balance: 578 EUR;
+480, 03-01-2019, 8:00, Transfer: card *6678: 333 EUR, balance: 861 EUR;
+480, 02-01-2019, 10:01, Transfer: card *6623: 100 EUR, balance: 432 EUR;
+480, 01-01-2019, 21:31, Withdrawal: card *6678: 50 EUR, balance: 528 EUR;
+480, 05-01-2019, 12:15, Transfer: card *6623: 100 EUR, balance: 532 EUR;
+730, 07-01-2019, 11:30, *1245, -1 EUR, left: 100 EUR;
+720, 10-10-2019, 10:00, *1238, +1200 EUR, left: 1650 EUR;
+480, 02-02-2019, 11:07, Transfer: card *6623: 57 EUR, balance: 589 EUR;
